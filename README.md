@@ -72,7 +72,7 @@ fish random.fish
 ![tol](https://img.shields.io/github/forks/COINTER-team/bot-rand?style=for-the-badge)
 ![tol](https://img.shields.io/github/stars/COINTER-team/bot-rand?color=green&logoColor=red&style=for-the-badge)                 
 
-<h1 align="center">
+<h1
  📱akun social media📱
 </h1>
 </div>
