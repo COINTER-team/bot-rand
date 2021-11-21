@@ -67,3 +67,9 @@ git clone https://github.com/COINTER-team/bot-rand
 cd bot-rand
 fish random.fish
 ```
+
+![tol](https://img.shields.io/badge/type%20code-open--source-blue)              
+![tol](https://img.shields.io/github/forks/COINTER-team/bot-rand?style=for-the-badge)
+![tol](https://img.shields.io/github/stars/COINTER-team/bot-rand?color=green&logoColor=red&style=for-the-badge)                    
+
+
