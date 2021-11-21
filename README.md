@@ -77,7 +77,8 @@ fish random.fish
 </p>
 <a href="https://youtube.com/channel/UCtu-GcxKL8kJBXpR1wfMgWg">
   <img align="left" alt="Menu" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
-</a>                             
+</a>
+ youtube
 
 <p align="center">
  🔭 terimakasih telah berkunjung
