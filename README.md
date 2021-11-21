@@ -70,13 +70,16 @@ fish random.fish
 
 ![tol](https://img.shields.io/badge/type%20code-open--source-blue)              
 ![tol](https://img.shields.io/github/forks/COINTER-team/bot-rand?style=for-the-badge)
-![tol](https://img.shields.io/github/stars/COINTER-team/bot-rand?color=green&logoColor=red&style=for-the-badge)                 
+![tol](https://img.shields.io/github/stars/COINTER-team/bot-rand?color=green&logoColor=red&style=for-the-badge)               
 
-<h1
- 📱akun social media📱
-</h1>
-</div>
+<p align="center">
+  📱akun social📱
+</p>
 
+<a href="https://youtube.com/channel/UCtu-GcxKL8kJBXpR1wfMgWg">
+  <img align="left" alt="polygon's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
+</a>
 
-
-
+<p align="center"
+  terimakasih telah berkunjung
+</p>
