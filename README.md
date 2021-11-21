@@ -15,7 +15,7 @@
 
 ini adalah bot yg akan mereply chat kalian secara `random`
 
-[!] not : `ini hanya berlaku di terminal`
+note : `ini hanya berlaku di terminal`
 
 # usage
 ```
@@ -51,14 +51,14 @@ gunakan perintah clear / bersih untuk membersihkan chat nya
  cara menginstall
 </p>
 
-`apt update`
-`apt full-upgrade`
-`apt install figlet toilet`
-`apt install fish`
-`apt install pv`
-`apt install coreutils`
-`apt install git`
-`apt instal ruby && gem install lolcat`
+`apt update`                          
+`apt full-upgrade`                      
+`apt install figlet toilet`                
+`apt install fish`                      
+`apt install pv`                              
+`apt install coreutils`                       
+`apt install git`                             
+`apt instal ruby && gem install lolcat`                             
 
 # repo
 
