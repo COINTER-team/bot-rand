@@ -13,4 +13,57 @@
 </h1>
 </div>
 
-          
+ini adalah bot yg akan mereply chat kalian secara `random`
+
+[!] not : `ini hanya berlaku di terminal`
+
+# usage
+```
+_____________________________________
+            random bot
+_____________________________________
+usage : fish random.fish
+
+///////////////////////////////////////////
+-h | --help memunculkan intruksi pemakaian
+exit ,keluar
+keluar ,keluar :v lag kan
+
+syarat memakai bot :
+                    1.siap kan mental
+                    2.gak boleh baper
+                    3.player free fire tidak di saran kan
+                    4.harus 14 tahun ke atas
+                    5.resiko tanggung sendiri jangan menyalahkan author
+
+jika syarat sudah di penuh silakan ketik fish random.fish --bot
+
+//////////////////////////////////////////////////
+Team         : helixs-crew & Cointer team
+contributor  : PharaohBoi
+code         : fish shell
+/////////////////////////////////////////////////
+
+gunakan perintah clear / bersih untuk membersihkan chat nya
+```
+
+<p align="center">
+ cara menginstall
+</p>
+
+`apt update`
+`apt full-upgrade`
+`apt install figlet toilet`
+`apt install fish`
+`apt install pv`
+`apt install coreutils`
+`apt install git`
+`apt instal ruby && gem install lolcat`
+
+# repo
+
+```lolcode
+git clone https://github.com/COINTER-team/bot-rand
+cd bot-rand
+fish random.fish
+```
