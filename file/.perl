@@ -2,7 +2,7 @@ use strict;
 use warnings;
 use diagnostics;
 
-use feature "swicth";
+use feature "switch";
 use feature "say";
 
 my $author = polygon
