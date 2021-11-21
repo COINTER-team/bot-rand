@@ -19,7 +19,7 @@ set send pv
 #######################################
 
 # kamus sys
-     set bot cat kamus.txt
+     set bot cat file/kamus.txt
 
 function ct
     echo
@@ -64,7 +64,7 @@ end
 set sys exit
 
 while [ os != $sys ]
-   read -P {$ku}[{$cy}(date +%r | sed -f asu.sed){$ku}]{$me}~{$ij}">""$st "  os
+   read -P {$ku}[{$cy}(date +%r | sed -f file/asu.sed){$ku}]{$me}~{$ij}">""$st "  os
 
 if test -z "$os"
   printf "\n$m%s$ij%s$m%s $st%s\n" "[" "!" "]" "input kosong lol"
