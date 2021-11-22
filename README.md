@@ -76,6 +76,5 @@ fish random.fish
   📱akun social📱
 </p>
 <a href="https://youtube.com/channel/UCtu-GcxKL8kJBXpR1wfMgWg">
-  <img align="left" alt="Menu" width="60px" src="https://github.com/Bayu12345677/tolol/blob/main/5296522_youtube_youtube%20logo_icon.svg" />
+  <img align="left" alt="Menu" width="80px" src="https://github.com/Bayu12345677/tolol/blob/main/5296522_youtube_youtube%20logo_icon.svg" />
 </a>
-youtube
