@@ -179,7 +179,7 @@ rm -rf /file/kamus.txt
 begin
      update "https://raw.githubusercontent.com/COINTER-team/bot-rand/main/bot.fish" "bot.fish" "bot.fish"
      echo
-     update "" ""
+     update "https://raw.githubusercontent.com/COINTER-team/bot-rand/main/file/kamus.txt" "kamu.txt" "/file/kamus.txt"
      echo
 if curl -s --ssl "google.com" 2>/dev/null 1>/dev/null
    tree
