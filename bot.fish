@@ -110,7 +110,7 @@ end
 function update
 printf "%s[%s*%s]%s updating.." $ij $b $ij $st
 echo
- if curl -s --ssl "$argv[1]"> bot.fish
+ if curl -s --ssl "$argv[1]"> $argv[3]
       printf "%s[%s√%s]%s $argv[2] berhasil di update\n" $cy $ku $cy $st
                 exit 0
                    else
@@ -177,7 +177,7 @@ case update
 rm -rf bot.fish
 rm -rf /file/kamus.txt
 begin
-     update "" ""
+     update "https://raw.githubusercontent.com/COINTER-team/bot-rand/main/bot.fish" "bot.fish" "bot.fish"
      echo
      update "" ""
      echo
