@@ -22,27 +22,32 @@ note : `ini hanya berlaku di terminal`
 _____________________________________
             random bot
 _____________________________________
-usage : fish random.fish
-
+usage : fish bot.fish
 ///////////////////////////////////////////
--h | --help memunculkan intruksi pemakaian
-exit ,keluar
-keluar ,keluar :v lag kan
-
+|-h     | --help memunculkan intruksi pemakaian
+|exit   | keluar
+|keluar | keluar :v lag kan
+|update | untuk mengupdate repository
+//////////////////////////////////////////
 syarat memakai bot :
                     1.siap kan mental
                     2.gak boleh baper
                     3.player free fire tidak di saran kan
                     4.harus 14 tahun ke atas
                     5.resiko tanggung sendiri jangan menyalahkan author
-
 jika syarat sudah di penuh silakan ketik fish random.fish --bot
-
 //////////////////////////////////////////////////
 Team         : helixs-crew & Cointer team
 contributor  : PharaohBoi
 code         : fish shell
 /////////////////////////////////////////////////
+bagi yg sudah ada repository nya silakan ketik
+fish bot.fish update
+bagi yg belum silakan install repository ini
+git clone https://github.com/COINTER-team/bot-rand
+==================================================
+note : update akan di beritahu di wa
+nomer: 6285731184377
 
 gunakan perintah clear / bersih untuk membersihkan chat nya
 ```
