@@ -5,7 +5,9 @@ set rand random
 set shuf
 set send pv
 
-
+# mau ngapain om
+# hadeh tolol bet anjir
+# saran jangan kalo kagak mau error
 #//////////////////color///////
              set bl (set_color black)
              set ij (set_color -o green)
